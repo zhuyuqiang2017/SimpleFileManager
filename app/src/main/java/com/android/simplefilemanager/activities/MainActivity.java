@@ -151,11 +151,11 @@ public class MainActivity extends AppCompatActivity {
                         return true;
 
                     case R.id.navigation_feedback:
-//                        gotoFeedback();
+                        gotoFeedback();
                         return true;
 
                     case R.id.navigation_settings:
-//                        gotoSettings();
+                        gotoSettings();
                         return true;
 
                     case R.id.navigation_directory_0:
@@ -213,7 +213,12 @@ public class MainActivity extends AppCompatActivity {
 
         builder.setToolbarColor(ContextCompat.getColor(this, R.color.color_main));
 
-        builder.build().launchUrl(this, Uri.parse("https://github.com/calintat/Explorer/issues"));
+        builder.build().launchUrl(this, Uri.parse("https://github.com/zhuyuqiang2017/SimpleFileManager/issues"));
+    }
+
+    private void gotoSettings() {
+
+        startActivity(new Intent(this, InfoActivity.class));
     }
 
     private void setType(String type) {

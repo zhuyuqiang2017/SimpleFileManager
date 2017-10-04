@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">FileManager</string>
+    <string name="app_version">version : 1.0.0</string>
+    <string name="app_developer">zhuyuqiang2017</string>
     <string name="navigation_internal">Internal storage</string>
     <string name="navigation_external">External storage</string>
     <string name="navigation_audio">Music</string>
