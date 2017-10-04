@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="navigation_internal">Internal storage</string>
+    <string name="navigation_external">External storage</string>
+    <string name="navigation_audio">Music</string>
+    <string name="navigation_image">Images</string>
+    <string name="navigation_video">Videos</string>
+    <string name="navigation_directory_0">DCIM</string>
+    <string name="navigation_directory_1">Download</string>
+    <string name="navigation_directory_2">Movies</string>
+    <string name="navigation_directory_3">Music</string>
+    <string name="navigation_directory_4">Pictures</string>
+    <string name="navigation_settings">Settings</string>
+    <string name="navigation_feedback">Send feedback</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_create">Create</string>
+    <string name="action_create_file">Create file</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_search">Search</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_move">Move</string>
+    <string name="action_send">Send</string>
+    <string name="action_paste">Paste</string>
+    <string name="request_permission">Permission Denied,Please request permission for using file manager</string>
+    <string name="dialog_ensure">Ensure</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="be_used">"Used : "</string>
+    <string name="unused">"Unused : "</string>
+    <string name="total_storage">"Total : "</string>
+    <string name="storage_message">%1$s used of %2$s</string>
+    <string name="ok">"OK"</string>
+    <string name="action_copy_message">Are you sure to copy the files that you selected to here?</string>
+    <string name="remind_file_name">"The name of file or directory is invalid"</string>
+    <string name="action_create_message">new file\'s name</string>
+    <string name="action_paste_message">Are you sure to paste the files that you selected ?</string>
+    <string name="action_delete_message">Are you sure to delete the files that you selected ?</string>
+    <string name="action_rename_message">new file\'s name</string>
+    <string name="action_search_message">file\'s name</string>
+    <string name="action_move_message">Are you sure to move the files that you selected to here?</string>
+    <string name="action_send_message">Send the file to other application or user ?</string>
+</resources>
